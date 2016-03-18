@@ -2,7 +2,7 @@
 $cabecalho_title = "título da pagina";
 include("../include/cabecalho.php"); 
 ?>
-<P> O vôlei nasceu em 1895 – um ano antes da primeira edição das Olimpíadas –
+<P> - O vôlei nasceu em 1895 – um ano antes da primeira edição das Olimpíadas –
  na Associação Cristã de Moços de Holyoke, no estado norte-americano de Massachussets.
   A ideia veio do pastor Lawrence Rider, que sugeriu ao professor William G. Morgan a 
   criação de um esporte movimentado, mas de menor intensidade do que o basquete, outra
