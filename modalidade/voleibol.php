@@ -9,7 +9,7 @@ include("../include/cabecalho.php");
      <img src="http://localhost:8080/images/volei.jpeg" alt="volei"> 
     <figcaption> Voleibol </figcaption>
   </figure>
-
+<h3>História</h3>
 <P> O vôlei nasceu em 1895 – um ano antes da primeira edição das Olimpíadas –
  na Associação Cristã de Moços de Holyoke, no estado norte-americano de Massachussets.
  A ideia veio do pastor Lawrence Rider, que sugeriu ao professor William G. Morgan a 

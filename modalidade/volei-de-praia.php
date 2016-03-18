@@ -9,7 +9,7 @@ include("../include/cabecalho.php");
 	<img src="http://localhost:8080/images/volei-de-praia.jpg" alt="volei-de-praia"> 
 	<figcaption> Voleibol </figcaption>
 </figure>
-
+<h3>História</h3>
 <P> - Variação natural do vôlei, a modalidade praticada na areia foi inventada em 1895,
 	nos Estados Unidos. Dispostos a praticar o esporte na praia, nas areias da Califórnia,
 	os pioneiros começaram a dar seus saques e cortadas em 1920. Aos poucos, a idéia foi
@@ -32,7 +32,7 @@ include("../include/cabecalho.php");
 				em Copacabana e em Santos (SP), com a participação de atletas brasileiros
 				e internacionais. Oficializado pela Federação Internacional de Vôlei (FIVB) 
 				após o Hollywood Volley, o vôlei de praia teve o seu primeiro Campeonato Mundial
-				disputado nas areias de Ipanema, em 1987. A dupla Sinjin Smith/Randy Stoklos,
+				 disputado nas areias de Ipanema, em 1987. A dupla Sinjin Smith/Randy Stoklos,
 				dos Estados Unidos, conquistou o título, enquanto dois astros da Geração de
 				Prata do vôlei de quadra brasileiro,  Renan e Montanaro, foram os brasileiros
 				ma is bem colocados, terminando em terceiro lugar. Estava aberta a porta para
