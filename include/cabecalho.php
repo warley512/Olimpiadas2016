@@ -4,6 +4,7 @@
 	<meta charset="UTF-8" />
 	<title><?php print $titulo; ?></title>
 	<link rel="stylesheet" href="http://localhost:8080/style/estilos.css">
+	<link rel="stylesheet" href="http://localhost:8080/style/rodape.css">
 	<?php print @$style; ?>
 	<meta name="viewport" content="width=device-width">
 </head>

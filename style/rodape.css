@@ -1,0 +1,31 @@
+/*rodape*/
+footer {
+  background-image: url('http://localhost:8080/images/fundo-rodape.png');
+}
+
+#rodape {
+  width: 900px;
+    height: 800px;
+    background: #FF0000
+        clear:both;
+}
+
+#rodape img {
+  margin-right: 30px;
+  vertical-align: middle;
+  width: 94px;
+}
+/*rodape*/
+
+
+#contato{
+     color: black;
+         text-align: right;
+    font-size: 20px;
+}
+
+#copyright{
+    font-style: italic;
+    color: black;
+    text-align: left;
+}
