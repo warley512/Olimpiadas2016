@@ -8,13 +8,13 @@ include("../include/cabecalho.php");
 	<img src="http://localhost:8080/images/futebol.jpg" alt="futebol"> 
 	<figcaption> Futebol </figcaption>
 </figure>
-<h3>História</h3>
+<h2>História</h2>
 <P> O ato de impulsionar uma bola com os pés para fazê-la chegar a um determinado
- destino começou na China, entre os séculos 2 e 3 antes de Cristo. Com o nome de
- Tsu' Chu, o jogo consistia em chutar uma bola, feita de couro e recheada com penas
-  e cabelos ou crinas, em direção a uma pequena rede fixada entre duas estacas de bambu.
-   O jogador podia usar os pés, o peito, as costas e os ombros – mas não as mãos –,
-    ao mesmo tempo em que resistia aos ataques dos oponentes. </P>
+	destino começou na China, entre os séculos 2 e 3 antes de Cristo. Com o nome de
+	Tsu' Chu, o jogo consistia em chutar uma bola, feita de couro e recheada com penas
+	e cabelos ou crinas, em direção a uma pequena rede fixada entre duas estacas de bambu.
+	O jogador podia usar os pés, o peito, as costas e os ombros – mas não as mãos –,
+	ao mesmo tempo em que resistia aos ataques dos oponentes. </P>
 
 	<p>O futebol moderno, entretanto, tem origem bem mais recente. Coube aos ingleses 
 		organizá-lo nos moldes que conhecemos atualmente. Nesse sentido, o esporte mais 
@@ -22,29 +22,37 @@ include("../include/cabecalho.php");
 		a separação de duas vertentes do rúgbi.</p>
 
 		<P>Em 1823, na Rúgbi School, coexistiam dois grupos de praticantes cujas visões
-		 sobre o esporte divergiam. Em um grupo, o rúgbi era praticado sem que a bola
-		  pudesse ser tocada com as mãos, enquanto no outro isso era permitido,
-		   como ocorre até hoje na modalidade.</P>
+			sobre o esporte divergiam. Em um grupo, o rúgbi era praticado sem que a bola
+			pudesse ser tocada com as mãos, enquanto no outro isso era permitido,
+			como ocorre até hoje na modalidade.</P>
 
 			<p>Ao longo das décadas seguintes, as práticas das duas vertentes conviveram,
-			 até que, em 1863, elas se separaram oficialmente. O momento crucial da história 
-			 do futebol moderno se deu em 26 de outubro de 1863, quando, em Londres, foi realizada 
-			 uma reunião envolvendo representantes de 11 clubes e os veteranos da Universidade de Cambridge.
-			  À época, o futebol era praticado com diferentes regras e um dos objetivos do encontro era buscar uma padronização.</p>
+				até que, em 1863, elas se separaram oficialmente. O momento crucial da história 
+				do futebol moderno se deu em 26 de outubro de 1863, quando, em Londres, foi realizada 
+				uma reunião envolvendo representantes de 11 clubes e os veteranos da Universidade de Cambridge.
+				À época, o futebol era praticado com diferentes regras e um dos objetivos do encontro era buscar uma padronização.</p>
 
-			  <p>Aquele “simpósio” marcou o nascimento da Football Association (FA). Ficou decidido que o futebol seria separado
-			   do rúgbi. Foram necessárias, porém, mais seis reuniões nos 44 dias seguintes até que a FA pudesse se organizar
-			    efetivamente e as regras fossem oficializadas, o que ocorreu em 8 de dezembro daquele ano.
-                Em 19 de dezembro de 1863, a FA promoveu a primeira partida de sua história, entre as equipes
-                 de Barnes e Richmond, disputada no Limes Field, em Barnes. O jogo terminou empatado em 0 a 0.
-                  A primeira partida internacional foi disputada em 30 de novembro de 1872, na Escócia, entre Inglaterra 
-                  e Escócia, e também terminou empatada sem gols.</p>
+				<p>Aquele “simpósio” marcou o nascimento da Football Association (FA). Ficou decidido que o futebol seria separado
+					do rúgbi. Foram necessárias, porém, mais seis reuniões nos 44 dias seguintes até que a FA pudesse se organizar
+					efetivamente e as regras fossem oficializadas, o que ocorreu em 8 de dezembro daquele ano.
+					Em 19 de dezembro de 1863, a FA promoveu a primeira partida de sua história, entre as equipes
+					de Barnes e Richmond, disputada no Limes Field, em Barnes. O jogo terminou empatado em 0 a 0.
+					A primeira partida internacional foi disputada em 30 de novembro de 1872, na Escócia, entre Inglaterra 
+					e Escócia, e também terminou empatada sem gols.</p>
 
-                  <p>O futebol cresceu rapidamente nos anos seguintes. Em 21 de maio de 1904, foi fundada, em Paris,
-                   a Federação Internacional de Futebol (Fifa). Em 1930, veio a primeira Copa do Mundo, no Uruguai,
-                    com 13 equipes, vencida pela seleção anfitriã. Hoje o futebol é o maior esporte do planeta,
-                     com 209 países afiliados à Fifa.</p>
+					<p>O futebol cresceu rapidamente nos anos seguintes. Em 21 de maio de 1904, foi fundada, em Paris,
+						a Federação Internacional de Futebol (Fifa). Em 1930, veio a primeira Copa do Mundo, no Uruguai,
+						com 13 equipes, vencida pela seleção anfitriã. Hoje o futebol é o maior esporte do planeta,
+						com 209 países afiliados à Fifa.</p>
+						<h3>Curiosidades</h3>
+						<h4>Paris 1900</h4>
+						<p>
+							O futebol foi disputado pela primeira vez em Olimpíadas nos Jogos de Paris, em 1900. À época,
+							 o esporte ainda engatinhava e apenas três nações estiveram representadas na modalidade:
+							  Grã-Bretanha, França e Bélgica. A Grã-Bretanha derrotou os franceses na decisão,
+							   por 4 a 0, e o país inventor do futebol se tornou o primeiro campeão olímpico da história.
+						</p>
 
 
 
-<?php include("../include/rodape.php"); ?>
+						<?php include("../include/rodape.php"); ?>
